@@ -71,3 +71,6 @@ curl http://192.168.1.24:8000/quake?apikey=bar&limit=1
 
 【REST Client】REST APIを簡単に試せるVSCode拡張  
 https://qiita.com/adam_azmi/items/8f516f9854a337859045  
+
+Kongのカスタムプラグイン内からAPIアクセスを行う  
+https://zenn.dev/naoto_raimi/articles/beaf60bc5e2867  
